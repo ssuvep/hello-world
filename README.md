@@ -1,2 +1,1 @@
-# hello-world
-training - using github
+New note by Sudarshan Survepalli in the branch called 'readme-edits'
